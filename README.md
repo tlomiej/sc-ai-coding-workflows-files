@@ -2,6 +2,7 @@
 
 This repository contains the companion files for the DeepLearning.AI AI Coding Workflows course. It includes the project specifications, Python dependencies, and custom implementer-agent configuration you'll use to build a simple Python web app throughout the course.
 
+
 ## Other DeepLearning.AI Resources
 > :mortar_board: **Keep learning** → [Explore all DeepLearning.AI courses](https://www.deeplearning.ai/courses/) — taught by the people building the future of AI. Find your next one.
 >
